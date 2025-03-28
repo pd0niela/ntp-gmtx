@@ -2,14 +2,6 @@
 
 Această aplicație permite obținerea orei exacte de la servere NTP și convertirea ei în diferite fusuri orare.
 
-## Cerințe
-
-
-- Biblioteci necesare:
-  - ntplib
-  - pytz
-  - tzlocal
-
 Instalare dependințe:
 ```
 pip install ntplib pytz tzlocal
